@@ -1,0 +1,9 @@
+body {
+    /*Background (no repeat and position)*/
+    background-image: url("https://images.wallpaperscraft.com/image/xp_windows_vector_74137_1600x900.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-size: cover;
+    color: red;
+    font-family: "Comic Sans", comic, cursive;
+}
